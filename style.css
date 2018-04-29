@@ -1,0 +1,7 @@
+@media (min-width: 768px) {
+	.home .banner-fixed {
+    	position: absolute;
+    	padding: 0;
+    	background: rgba(0,0,0,.15);
+	}
+}
